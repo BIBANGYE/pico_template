@@ -1,7 +1,5 @@
 # pico_template
 
-[TOC]
-
 ## 环境搭建
 
 ### 准备工作
