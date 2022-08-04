@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/CMakeFiles/ELF2UF2Build
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/CMakeFiles/ELF2UF2Build.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/CMakeFiles/ELF2UF2Build-complete.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
