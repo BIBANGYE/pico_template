@@ -1,32 +1,32 @@
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/assert.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\assert.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\_ansi.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\newlib.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\_newlib_version.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\config.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\ieeefp.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\features.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\stdint.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\_default_types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_intsup.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_stdint.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\include/pico/float.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\math.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\reent.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\_ansi.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\_types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\lock.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\cdefs.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\float.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\include/pico/bootrom/sf_table.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/platform_defs.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/addressmap.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/sio.h
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/assert.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\stdbool.h \
+ d\:\gcc\arm-none-eabi\include\assert.h \
+ d\:\gcc\arm-none-eabi\include\_ansi.h \
+ d\:\gcc\arm-none-eabi\include\newlib.h \
+ d\:\gcc\arm-none-eabi\include\_newlib_version.h \
+ d\:\gcc\arm-none-eabi\include\sys\config.h \
+ d\:\gcc\arm-none-eabi\include\machine\ieeefp.h \
+ d\:\gcc\arm-none-eabi\include\sys\features.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\stdint.h \
+ d\:\gcc\arm-none-eabi\include\stdint.h \
+ d\:\gcc\arm-none-eabi\include\machine\_default_types.h \
+ d\:\gcc\arm-none-eabi\include\sys\_intsup.h \
+ d\:\gcc\arm-none-eabi\include\sys\_stdint.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\stddef.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\include/pico/float.h \
+ d\:\gcc\arm-none-eabi\include\math.h \
+ d\:\gcc\arm-none-eabi\include\sys\reent.h \
+ d\:\gcc\arm-none-eabi\include\_ansi.h \
+ d\:\gcc\arm-none-eabi\include\sys\_types.h \
+ d\:\gcc\arm-none-eabi\include\machine\_types.h \
+ d\:\gcc\arm-none-eabi\include\sys\lock.h \
+ d\:\gcc\arm-none-eabi\include\sys\cdefs.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\float.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\include/pico/bootrom/sf_table.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/platform_defs.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/addressmap.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/sio.h

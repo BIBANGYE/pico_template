@@ -115,35 +115,35 @@
 			[
 				{
 					"backtrace" : 9,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/asminclude"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/asminclude"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_base/include"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
+					"path" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/boards/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/boards/include"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
 				}
 			],
 			"language" : "ASM",
@@ -178,7 +178,7 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "-Wl,--script=E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/boot_stage2.ld",
+				"fragment" : "-Wl,--script=C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/boot_stage2.ld",
 				"role" : "flags"
 			},
 			{

@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-addr2line.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -31,7 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ar.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-ar.exe"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER",
@@ -47,7 +47,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc.exe"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER_AR",
@@ -63,7 +63,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ar.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER_RANLIB",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ranlib.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_ASM_COMPILER_WORKS",
@@ -195,7 +195,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/Users/ayyk/Desktop/pico/cmake-build-debug-pico"
+			"value" : "c:/Users/Administrator/Desktop/pico/cmake-build-debug-pico"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -259,7 +259,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/bin/cmake.exe"
+			"value" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -271,7 +271,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/bin/cpack.exe"
+			"value" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -283,7 +283,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/bin/ctest.exe"
+			"value" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -299,7 +299,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -315,7 +315,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ar.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_RANLIB",
@@ -331,7 +331,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ranlib.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -427,7 +427,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ar.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -459,7 +459,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ranlib.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -555,7 +555,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/mingw/bin/dlltool.exe"
+			"value" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/mingw/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -719,7 +719,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Users/ayyk/Desktop/pico"
+			"value" : "C:/Users/Administrator/Desktop/pico"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -747,7 +747,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ld.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-ld.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -763,7 +763,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/mingw/bin/mingw32-make.exe"
+			"value" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/mingw/bin/mingw32-make.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -859,7 +859,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-nm.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -887,7 +887,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-objcopy.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -903,7 +903,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-objdump.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -967,7 +967,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ranlib.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_READELF",
@@ -983,7 +983,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-readelf.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -995,7 +995,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23"
+			"value" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1203,7 +1203,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-strip.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-strip.exe"
 		},
 		{
 			"name" : "CMAKE_TOOLCHAIN_FILE",
@@ -1215,7 +1215,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/Users/ayyk/Desktop/pico/pico-sdk/cmake/preload/toolchains/pico_arm_gcc.cmake"
+			"value" : "C:/Users/Administrator/Desktop/pico/pico-sdk/cmake/preload/toolchains/pico_arm_gcc.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1247,7 +1247,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/Graphviz/bin/dot.exe"
+			"value" : "DOXYGEN_DOT_EXECUTABLE-NOTFOUND"
 		},
 		{
 			"name" : "DOXYGEN_EXECUTABLE",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/doxygen/bin/doxygen.exe"
+			"value" : "DOXYGEN_EXECUTABLE-NOTFOUND"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_Python3",
@@ -1275,7 +1275,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Users/ayyk/AppData/Local/Programs/Python/Python39/python.exe][cfound components: Interpreter ][v3.9.5()]"
+			"value" : "[C:/Users/Administrator/AppData/Local/Programs/Python/Python310/python.exe][cfound components: Interpreter ][v3.10.6()]"
 		},
 		{
 			"name" : "PICO_BOARD",
@@ -1311,7 +1311,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2"
+			"value" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2"
 		},
 		{
 			"name" : "PICO_BUILD_DOCS",
@@ -1335,7 +1335,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Users/ayyk/Desktop/pico/pico-sdk/cmake/preload/platforms"
+			"value" : "C:/Users/Administrator/Desktop/pico/pico-sdk/cmake/preload/platforms"
 		},
 		{
 			"name" : "PICO_CMAKE_PRELOAD_PLATFORM_FILE",
@@ -1347,7 +1347,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Users/ayyk/Desktop/pico/pico-sdk/cmake/preload/platforms/rp2040.cmake"
+			"value" : "C:/Users/Administrator/Desktop/pico/pico-sdk/cmake/preload/platforms/rp2040.cmake"
 		},
 		{
 			"name" : "PICO_COMPILER_ASM",
@@ -1359,7 +1359,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc.exe"
 		},
 		{
 			"name" : "PICO_COMPILER_CC",
@@ -1371,7 +1371,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-gcc.exe"
 		},
 		{
 			"name" : "PICO_COMPILER_CXX",
@@ -1383,7 +1383,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-g++.exe"
 		},
 		{
 			"name" : "PICO_COPY_TO_RAM",
@@ -1431,7 +1431,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : " E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/cmsis E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_regs E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/cmsis E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_regs"
+			"value" : " C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs"
 		},
 		{
 			"name" : "PICO_DOXYGEN_PATHS",
@@ -1443,7 +1443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : " E:/Users/ayyk/Desktop/pico/pico-sdk/src/common E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040"
+			"value" : " C:/Users/Administrator/Desktop/pico/pico-sdk/src/common C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040"
 		},
 		{
 			"name" : "PICO_NO_FLASH",
@@ -1479,7 +1479,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-objcopy.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-objcopy.exe"
 		},
 		{
 			"name" : "PICO_OBJDUMP",
@@ -1491,7 +1491,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-objdump.exe"
+			"value" : "D:/GCC/bin/arm-none-eabi-objdump.exe"
 		},
 		{
 			"name" : "PICO_ON_DEVICE",
@@ -1527,7 +1527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040.cmake"
+			"value" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040.cmake"
 		},
 		{
 			"name" : "PICO_SDK_FETCH_FROM_GIT",
@@ -1563,7 +1563,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "E:/Users/ayyk/Desktop/pico/pico-sdk"
+			"value" : "C:/Users/Administrator/Desktop/pico/pico-sdk"
 		},
 		{
 			"name" : "PICO_SDK_TESTS_ENABLED",
@@ -1623,7 +1623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ayyk/AppData/Local/Programs/Python/Python39/python.exe"
+			"value" : "C:/Users/Administrator/AppData/Local/Programs/Python/Python310/python.exe"
 		},
 		{
 			"name" : "_Python3_INTERPRETER_PROPERTIES",
@@ -1635,7 +1635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "Python;3;9;5;64;;;C:\\Users\\ayyk\\AppData\\Local\\Programs\\Python\\Python39\\Lib;C:\\Users\\ayyk\\AppData\\Local\\Programs\\Python\\Python39\\Lib;C:\\Users\\ayyk\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages;C:\\Users\\ayyk\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages"
+			"value" : "Python;3;10;6;64;;;C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\Lib;C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\Lib;C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages;C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages"
 		},
 		{
 			"name" : "_Python3_INTERPRETER_SIGNATURE",
@@ -1647,7 +1647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "0036f33cf0bc647f9c7c80c3574b2a5d"
+			"value" : "67a4d99d27a4b45050395e4b940de684"
 		},
 		{
 			"name" : "pico_BINARY_DIR",
@@ -1659,7 +1659,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico"
+			"value" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico"
 		},
 		{
 			"name" : "pico_IS_TOP_LEVEL",
@@ -1683,7 +1683,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Users/ayyk/Desktop/pico"
+			"value" : "C:/Users/Administrator/Desktop/pico"
 		},
 		{
 			"name" : "pico_sdk_BINARY_DIR",
@@ -1695,7 +1695,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk"
+			"value" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk"
 		},
 		{
 			"name" : "pico_sdk_IS_TOP_LEVEL",
@@ -1719,7 +1719,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Users/ayyk/Desktop/pico/pico-sdk"
+			"value" : "C:/Users/Administrator/Desktop/pico/pico-sdk"
 		}
 	],
 	"kind" : "cache",

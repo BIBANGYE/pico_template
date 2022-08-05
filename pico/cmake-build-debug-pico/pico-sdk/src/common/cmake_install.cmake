@@ -1,4 +1,4 @@
-# Install script for directory: E:/Users/ayyk/Desktop/pico/pico-sdk/src/common
+# Install script for directory: C:/Users/Administrator/Desktop/pico/pico-sdk/src/common
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,22 +34,22 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/GCC/bin/arm-none-eabi-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/boot_picoboot/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/boot_uf2/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_base/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_usb_reset_interface/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_bit_ops/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_binary_info/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_divider/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_sync/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_time/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_util/cmake_install.cmake")
-  include("E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_stdlib/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/boot_picoboot/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/boot_uf2/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_base/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_usb_reset_interface/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_bit_ops/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_binary_info/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_divider/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_sync/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_time/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_util/cmake_install.cmake")
+  include("C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico-sdk/src/common/pico_stdlib/cmake_install.cmake")
 
 endif()
 

@@ -280,151 +280,151 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_stdlib/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_stdlib/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_gpio/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_gpio/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_base/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
+					"path" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/boards/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/boards/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_structs/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_structs/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_claim/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_claim/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_sync/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_sync/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_irq/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_irq/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_sync/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_sync/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_time/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_time/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_timer/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_timer/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_util/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_util/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_uart/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_uart/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_divider/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_divider/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_runtime/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_runtime/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_clocks/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_clocks/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_resets/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_resets/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_pll/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_pll/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_vreg/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_vreg/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_watchdog/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_watchdog/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_xosc/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_xosc/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_printf/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_printf/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_bootrom/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_bootrom/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_bit_ops/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_bit_ops/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_divider/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_divider/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_double/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_double/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_float/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_float/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_malloc/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_malloc/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_binary_info/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_binary_info/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include"
 				}
 			],
 			"language" : "C",
@@ -648,151 +648,151 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_stdlib/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_stdlib/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_gpio/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_gpio/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_base/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
+					"path" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/boards/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/boards/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_structs/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_structs/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_claim/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_claim/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_sync/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_sync/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_irq/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_irq/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_sync/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_sync/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_time/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_time/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_timer/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_timer/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_util/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_util/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_uart/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_uart/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_divider/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_divider/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_runtime/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_runtime/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_clocks/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_clocks/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_resets/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_resets/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_pll/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_pll/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_vreg/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_vreg/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_watchdog/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_watchdog/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_xosc/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_xosc/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_printf/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_printf/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_bootrom/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_bootrom/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_bit_ops/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_bit_ops/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_divider/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_divider/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_double/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_double/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_float/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_float/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_malloc/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_malloc/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_binary_info/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_binary_info/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include"
 				}
 			],
 			"language" : "ASM",
@@ -1001,151 +1001,151 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_stdlib/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_stdlib/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_gpio/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_gpio/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_base/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
+					"path" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/generated/pico_base"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/boards/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/boards/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_platform/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_regs/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_base/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2040/hardware_structs/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2040/hardware_structs/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_claim/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_claim/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_sync/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_sync/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_irq/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_irq/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_sync/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_sync/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_time/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_time/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_timer/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_timer/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_util/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_util/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_uart/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_uart/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_divider/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_divider/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_runtime/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_runtime/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_clocks/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_clocks/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_resets/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_resets/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_pll/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_pll/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_vreg/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_vreg/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_watchdog/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_watchdog/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/hardware_xosc/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/hardware_xosc/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_printf/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_printf/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_bootrom/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_bootrom/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_bit_ops/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_bit_ops/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_divider/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_divider/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_double/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_double/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_float/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_float/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_malloc/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_malloc/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/boot_stage2/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_binary_info/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_binary_info/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio/include"
 				},
 				{
 					"backtrace" : 2,
-					"path" : "E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include"
+					"path" : "C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include"
 				}
 			],
 			"language" : "CXX",
@@ -1956,7 +1956,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,--script=E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/pico_standard_link/memmap_default.ld",
+				"fragment" : "-Wl,--script=C:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/pico_standard_link/memmap_default.ld",
 				"role" : "flags"
 			},
 			{

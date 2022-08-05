@@ -18,14 +18,14 @@ Linker script and memory map
                 0x20041fcc                literals
 LOAD CMakeFiles/bs2_default.dir/compile_time_choice.S.obj
 START GROUP
-LOAD e:/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
-LOAD e:/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a
-LOAD e:/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD d:/gcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/gcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a
+LOAD d:/gcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
 END GROUP
 START GROUP
-LOAD e:/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
-LOAD e:/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
-LOAD e:/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+LOAD d:/gcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD d:/gcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD d:/gcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
 END GROUP
 OUTPUT(bs2_default.elf elf32-littlearm)
 LOAD linker stubs
@@ -62,8 +62,8 @@ LOAD linker stubs
  .ARM.attributes
                 0x00000000       0x22 CMakeFiles/bs2_default.dir/compile_time_choice.S.obj
 
-.debug_line     0x00000000      0x1a5
- .debug_line    0x00000000      0x1a5 CMakeFiles/bs2_default.dir/compile_time_choice.S.obj
+.debug_line     0x00000000      0x1b7
+ .debug_line    0x00000000      0x1b7 CMakeFiles/bs2_default.dir/compile_time_choice.S.obj
 
 .debug_info     0x00000000       0x26
  .debug_info    0x00000000       0x26 CMakeFiles/bs2_default.dir/compile_time_choice.S.obj
@@ -75,5 +75,5 @@ LOAD linker stubs
  .debug_aranges
                 0x00000000       0x20 CMakeFiles/bs2_default.dir/compile_time_choice.S.obj
 
-.debug_str      0x00000000       0xb3
- .debug_str     0x00000000       0xb3 CMakeFiles/bs2_default.dir/compile_time_choice.S.obj
+.debug_str      0x00000000       0xc5
+ .debug_str     0x00000000       0xc5 CMakeFiles/bs2_default.dir/compile_time_choice.S.obj

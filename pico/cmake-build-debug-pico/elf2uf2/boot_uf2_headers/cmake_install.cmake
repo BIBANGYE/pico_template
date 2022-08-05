@@ -1,4 +1,4 @@
-# Install script for directory: E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/boot_uf2
+# Install script for directory: C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/boot_uf2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/mingw/bin/objdump.exe")
 endif()
 

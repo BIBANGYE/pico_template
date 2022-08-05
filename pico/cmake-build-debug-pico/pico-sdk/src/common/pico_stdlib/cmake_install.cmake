@@ -1,4 +1,4 @@
-# Install script for directory: E:/Users/ayyk/Desktop/pico/pico-sdk/src/common/pico_stdlib
+# Install script for directory: C:/Users/Administrator/Desktop/pico/pico-sdk/src/common/pico_stdlib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "E:/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/GCC/bin/arm-none-eabi-objdump.exe")
 endif()
 

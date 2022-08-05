@@ -1,0 +1,9 @@
+D:\JetBrains\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\Administrator\Desktop\pico -B C:\Users\Administrator\Desktop\pico\cmake-build-debug
+CMake Error at pico_sdk_import.cmake:55 (message):
+  SDK location was not specified.  Please set PICO_SDK_PATH or set
+  PICO_SDK_FETCH_FROM_GIT to on to fetch from git.
+Call Stack (most recent call first):
+  CMakeLists.txt:6 (include)
+
+
+-- Configuring incomplete, errors occurred!
