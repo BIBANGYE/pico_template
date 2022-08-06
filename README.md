@@ -1,5 +1,13 @@
 # pico_template
 
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
+**GitHub Stars**
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/bby314/pico_template)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/bby314/pico_template)
+
 ## 环境搭建
 
 ### 准备工作
