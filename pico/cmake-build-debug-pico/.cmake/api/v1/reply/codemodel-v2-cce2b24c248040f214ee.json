@@ -1034,14 +1034,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ELF2UF2Build::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ELF2UF2Build-Debug-b70648f482b765876aed.json",
+					"jsonFile" : "target-ELF2UF2Build-Debug-2f0c7ca28c834ddfb885.json",
 					"name" : "ELF2UF2Build",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 43,
 					"id" : "bs2_default::@bc554eaed616d198a22d",
-					"jsonFile" : "target-bs2_default-Debug-0d187ea3980d2d854d8e.json",
+					"jsonFile" : "target-bs2_default-Debug-dcdda8797dbd8131cdf1.json",
 					"name" : "bs2_default",
 					"projectIndex" : 1
 				},
@@ -1062,7 +1062,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "pico::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-pico-Debug-6e302c7958935dab75b0.json",
+					"jsonFile" : "target-pico-Debug-4e6a6e33dc7bfd9de146.json",
 					"name" : "pico",
 					"projectIndex" : 0
 				}
@@ -1072,8 +1072,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico",
-		"source" : "E:/Users/ayyk/Desktop/pico"
+		"build" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico",
+		"source" : "C:/Users/Administrator/Desktop/pico"
 	},
 	"version" : 
 	{

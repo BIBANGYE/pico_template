@@ -12,7 +12,7 @@
 		],
 		"files" : 
 		[
-			"D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject.cmake",
+			"D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject.cmake",
 			"pico-sdk/tools/FindELF2UF2.cmake",
 			"pico-sdk/tools/CMakeLists.txt",
 			"pico-sdk/src/rp2_common.cmake",

@@ -41,7 +41,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
 			"isGenerated" : true,
@@ -58,17 +58,17 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake"
 		},
 		{
 			"path" : "pico-sdk/cmake/Platform/PICO.cmake"
@@ -76,27 +76,27 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
 		},
 		{
 			"path" : "pico-sdk/cmake/Platform/PICO.cmake"
@@ -104,27 +104,27 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
 		},
 		{
 			"path" : "pico-sdk/cmake/Platform/PICO.cmake"
@@ -132,22 +132,22 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeASMInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeASMInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-ASM.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-ASM.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
 		},
 		{
 			"path" : "pico-sdk/tools/FindELF2UF2.cmake"
@@ -155,12 +155,12 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject/mkdirs.cmake.in"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject/mkdirs.cmake.in"
 		},
 		{
 			"isGenerated" : true,
@@ -169,12 +169,12 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject/RepositoryInfo.txt.in"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject/RepositoryInfo.txt.in"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject/cfgcmd.txt.in"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/ExternalProject/cfgcmd.txt.in"
 		},
 		{
 			"path" : "pico-sdk/CMakeLists.txt"
@@ -185,17 +185,17 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeASMInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeASMInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-ASM.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-ASM.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
 		},
 		{
 			"path" : "pico-sdk/src/common/pico_base/generate_config_header.cmake"
@@ -224,17 +224,17 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeASMInformation.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/CMakeASMInformation.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-ASM.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-ASM.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake"
 		},
 		{
 			"path" : "pico-sdk/src/common/CMakeLists.txt"
@@ -359,22 +359,22 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPython3.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPython3.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPython/Support.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPython/Support.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake"
 		},
 		{
 			"path" : "pico-sdk/src/rp2_common/pico_bootsel_via_double_reset/CMakeLists.txt"
@@ -469,24 +469,24 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindDoxygen.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindDoxygen.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake"
 		},
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/JetBrains/Toolbox/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake"
+			"path" : "D:/JetBrains/apps/CLion/ch-0/222.3345.126/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico",
-		"source" : "E:/Users/ayyk/Desktop/pico"
+		"build" : "C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico",
+		"source" : "C:/Users/Administrator/Desktop/pico"
 	},
 	"version" : 
 	{

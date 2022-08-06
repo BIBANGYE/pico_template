@@ -47,19 +47,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = D:\JetBrains\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = D:\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = D:\JetBrains\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\Users\ayyk\Desktop\pico
+CMAKE_SOURCE_DIR = C:\Users\Administrator\Desktop\pico
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico
+CMAKE_BINARY_DIR = C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	D:\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	D:\JetBrains\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	D:\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	D:\JetBrains\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -86,14 +86,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico && $(CMAKE_COMMAND) -E cmake_progress_start E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\pico-sdk\src\rp2_common\hardware_i2c\\CMakeFiles\progress.marks
-	cd /d E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/all
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles 0
+	cd /d C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\pico-sdk\src\rp2_common\hardware_i2c\\CMakeFiles\progress.marks
+	cd /d C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/clean
+	cd /d C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/clean
 .PHONY : clean
 
 # The main clean target
@@ -102,17 +102,17 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/preinstall
+	cd /d C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/preinstall
+	cd /d C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pico-sdk/src/rp2_common/hardware_i2c/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Help Target
@@ -134,6 +134,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = D:\JetBrains\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = D:\JetBrains\Toolbox\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = D:\JetBrains\apps\CLion\ch-0\222.3345.126\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\Users\ayyk\Desktop\pico
+CMAKE_SOURCE_DIR = C:\Users\Administrator\Desktop\pico
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico
+CMAKE_BINARY_DIR = C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico
 
 # Include any dependencies generated for this target.
 include CMakeFiles/pico.dir/depend.make
@@ -71,635 +71,635 @@ include CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/main.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/main.c.obj: ../main.c
 CMakeFiles/pico.dir/main.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/pico.dir/main.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/main.c.obj -MF CMakeFiles\pico.dir\main.c.obj.d -o CMakeFiles\pico.dir\main.c.obj -c E:\Users\ayyk\Desktop\pico\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/pico.dir/main.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/main.c.obj -MF CMakeFiles\pico.dir\main.c.obj.d -o CMakeFiles\pico.dir\main.c.obj -c C:\Users\Administrator\Desktop\pico\main.c
 
 CMakeFiles/pico.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/main.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\main.c > CMakeFiles\pico.dir\main.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\main.c > CMakeFiles\pico.dir\main.c.i
 
 CMakeFiles/pico.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/main.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\main.c -o CMakeFiles\pico.dir\main.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\main.c -o CMakeFiles\pico.dir\main.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: ../pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: ../pico-sdk/src/rp2_common/hardware_gpio/gpio.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: ../pico-sdk/src/rp2_common/hardware_claim/claim.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_claim/claim.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_claim\claim.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: ../pico-sdk/src/rp2_common/pico_platform/platform.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\platform.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\platform.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\platform.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\platform.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_platform/platform.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\platform.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\platform.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_platform\platform.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: ../pico-sdk/src/rp2_common/hardware_sync/sync.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_sync/sync.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_sync\sync.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: ../pico-sdk/src/rp2_common/hardware_irq/irq.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: ../pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.obj: ../pico-sdk/src/common/pico_sync/sem.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\sem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\sem.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\sem.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\sem.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/sem.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\sem.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\sem.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\sem.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.obj: ../pico-sdk/src/common/pico_sync/lock_core.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\lock_core.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\lock_core.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\lock_core.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\lock_core.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/lock_core.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\lock_core.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\lock_core.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\lock_core.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.obj: ../pico-sdk/src/common/pico_time/time.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_time\time.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_time\time.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_time\time.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_time\time.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/time.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_time\time.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_time\time.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\time.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.obj: ../pico-sdk/src/common/pico_time/timeout_helper.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_time\timeout_helper.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_time\timeout_helper.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_time\timeout_helper.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_time\timeout_helper.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_time/timeout_helper.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_time\timeout_helper.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_time\timeout_helper.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_time\timeout_helper.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: ../pico-sdk/src/rp2_common/hardware_timer/timer.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_timer\timer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_timer\timer.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_timer\timer.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_timer\timer.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_timer/timer.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_timer\timer.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_timer\timer.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.obj: ../pico-sdk/src/common/pico_util/datetime.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\datetime.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\datetime.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\datetime.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\datetime.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/datetime.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\datetime.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\datetime.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\datetime.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.obj: ../pico-sdk/src/common/pico_util/pheap.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\pheap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\pheap.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\pheap.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\pheap.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/pheap.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\pheap.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\pheap.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\pheap.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.obj: ../pico-sdk/src/common/pico_util/queue.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\queue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\queue.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\queue.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\queue.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_util/queue.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_util\queue.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_util\queue.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_util\queue.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.obj: ../pico-sdk/src/common/pico_sync/mutex.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\mutex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\mutex.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\mutex.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\mutex.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/mutex.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\mutex.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\mutex.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\mutex.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.obj: ../pico-sdk/src/common/pico_sync/critical_section.c
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\critical_section.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\critical_section.c
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\critical_section.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\critical_section.c > CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/common/pico_sync/critical_section.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_sync\critical_section.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_sync\critical_section.c -o CMakeFiles\pico.dir\pico-sdk\src\common\pico_sync\critical_section.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: ../pico-sdk/src/rp2_common/hardware_uart/uart.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_uart/uart.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_uart\uart.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: ../pico-sdk/src/rp2_common/hardware_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_divider\divider.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_divider\divider.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_divider\divider.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_divider\divider.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_divider\divider.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_divider\divider.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_divider/divider.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_divider\divider.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_divider\divider.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_divider\divider.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_divider\divider.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: ../pico-sdk/src/rp2_common/pico_runtime/runtime.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: ../pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: ../pico-sdk/src/rp2_common/hardware_pll/pll.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_pll/pll.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_pll\pll.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: ../pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: ../pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: ../pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: ../pico-sdk/src/rp2_common/pico_printf/printf.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_printf\printf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_printf\printf.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_printf\printf.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_printf\printf.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_printf/printf.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_printf\printf.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_printf\printf.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_printf\printf.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: ../pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: ../pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: ../pico-sdk/src/rp2_common/pico_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_divider\divider.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_divider\divider.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_divider\divider.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_divider\divider.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_divider\divider.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_divider\divider.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_divider\divider.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_divider\divider.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_divider/divider.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_divider\divider.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_divider\divider.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_divider\divider.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_divider\divider.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: ../pico-sdk/src/rp2_common/pico_double/double_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: ../pico-sdk/src/rp2_common/pico_double/double_init_rom.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: ../pico-sdk/src/rp2_common/pico_double/double_math.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_math.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_math.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_math.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_math.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_math.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_math.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_math.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_math.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: ../pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: ../pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: ../pico-sdk/src/rp2_common/pico_float/float_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: ../pico-sdk/src/rp2_common/pico_float/float_init_rom.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: ../pico-sdk/src/rp2_common/pico_float/float_math.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_math.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_math.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_math.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: ../pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: ../pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: ../pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: ../pico-sdk/src/rp2_common/pico_standard_link/crt0.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj   -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building ASM object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj   -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: ../pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
+	D:\GCC\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
+	D:\GCC\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-g++.exe" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
+	D:\GCC\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: ../pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: ../pico-sdk/src/rp2_common/pico_stdio/stdio.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/pico.dir/flags.make
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: ../pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/pico.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.obj -c E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -MF CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.obj.d -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.obj -c C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.i
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c > CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.i
 
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s"
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-gcc.exe" $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.s
+	D:\GCC\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c -o CMakeFiles\pico.dir\pico-sdk\src\rp2_common\pico_stdio_uart\stdio_uart.c.s
 
 # Object files for target pico
 pico_OBJECTS = \
@@ -802,13 +802,13 @@ pico.elf: CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart
 pico.elf: CMakeFiles/pico.dir/build.make
 pico.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 pico.elf: CMakeFiles/pico.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable pico.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable pico.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\pico.dir\link.txt --verbose=$(VERBOSE)
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -Oihex E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico.elf pico.hex
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -Obinary E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico.elf pico.bin
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objdump.exe" -h E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico.elf >pico.dis
-	"E:\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objdump.exe" -d E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico.elf >>pico.dis
-	elf2uf2\elf2uf2 E:/Users/ayyk/Desktop/pico/cmake-build-debug-pico/pico.elf pico.uf2
+	D:\GCC\bin\arm-none-eabi-objcopy.exe -Oihex C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico.elf pico.hex
+	D:\GCC\bin\arm-none-eabi-objcopy.exe -Obinary C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico.elf pico.bin
+	D:\GCC\bin\arm-none-eabi-objdump.exe -h C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico.elf >pico.dis
+	D:\GCC\bin\arm-none-eabi-objdump.exe -d C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico.elf >>pico.dis
+	elf2uf2\elf2uf2 C:/Users/Administrator/Desktop/pico/cmake-build-debug-pico/pico.elf pico.uf2
 
 # Rule to build all files generated by this target.
 CMakeFiles/pico.dir/build: pico.elf
@@ -819,6 +819,6 @@ CMakeFiles/pico.dir/clean:
 .PHONY : CMakeFiles/pico.dir/clean
 
 CMakeFiles/pico.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\Users\ayyk\Desktop\pico E:\Users\ayyk\Desktop\pico E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\CMakeFiles\pico.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Administrator\Desktop\pico C:\Users\Administrator\Desktop\pico C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico C:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\CMakeFiles\pico.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/pico.dir/depend
 

@@ -12,6 +12,8 @@
 
 ### 准备工作
 
+- 安装[python3](https://www.python.org/downloads/release/python-3106/)
+
 - 下载安装交叉编译工具链  [ARM GNU](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/downloads)
 
     ![图像 1](assets/%E5%9B%BE%E5%83%8F%201.png)
@@ -21,6 +23,8 @@
 - 创建工程
 
     ![image-20220804235900169](assets/image-20220804235900169.png)
+    
+    将 Pico SDK 解压到工程文件中
 
 > **MinGW工具链(含Cmake、Make、GDB)在2021版本的Clion中默认已经安装**
 

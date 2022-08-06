@@ -1,54 +1,54 @@
 CMakeFiles/pico.dir/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\stdlib.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\ieeefp.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\_ansi.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\newlib.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\_newlib_version.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\config.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\features.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\reent.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\_ansi.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\_types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\_default_types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\lock.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\cdefs.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\stdlib.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\alloca.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\stdio.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdarg.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_stdint.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\endian.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\_endian.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\select.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_sigset.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_timeval.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\timespec.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_timespec.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_pthreadtypes.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\sched.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\machine\types.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\stdio.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/assert.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\assert.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\stdint.h \
- e:\gnu\ arm\ embedded\ toolchain\10\ 2021.10\arm-none-eabi\include\sys\_intsup.h \
- E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\generated\pico_base/pico/version.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/config.h \
- E:\Users\ayyk\Desktop\pico\cmake-build-debug-pico\generated\pico_base/pico/config_autogen.h \
- E:/Users/ayyk/Desktop/pico/pico-sdk/src/boards/include/boards/pico.h \
- E:/Users/ayyk/Desktop/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/platform_defs.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/addressmap.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/sio.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/error.h \
- E:\Users\ayyk\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\include/pico/malloc.h
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c \
+ d\:\gcc\arm-none-eabi\include\stdlib.h \
+ d\:\gcc\arm-none-eabi\include\machine\ieeefp.h \
+ d\:\gcc\arm-none-eabi\include\_ansi.h \
+ d\:\gcc\arm-none-eabi\include\newlib.h \
+ d\:\gcc\arm-none-eabi\include\_newlib_version.h \
+ d\:\gcc\arm-none-eabi\include\sys\config.h \
+ d\:\gcc\arm-none-eabi\include\sys\features.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\stddef.h \
+ d\:\gcc\arm-none-eabi\include\sys\reent.h \
+ d\:\gcc\arm-none-eabi\include\_ansi.h \
+ d\:\gcc\arm-none-eabi\include\sys\_types.h \
+ d\:\gcc\arm-none-eabi\include\machine\_types.h \
+ d\:\gcc\arm-none-eabi\include\machine\_default_types.h \
+ d\:\gcc\arm-none-eabi\include\sys\lock.h \
+ d\:\gcc\arm-none-eabi\include\sys\cdefs.h \
+ d\:\gcc\arm-none-eabi\include\machine\stdlib.h \
+ d\:\gcc\arm-none-eabi\include\alloca.h \
+ d\:\gcc\arm-none-eabi\include\stdio.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\stdarg.h \
+ d\:\gcc\arm-none-eabi\include\sys\types.h \
+ d\:\gcc\arm-none-eabi\include\sys\_stdint.h \
+ d\:\gcc\arm-none-eabi\include\machine\endian.h \
+ d\:\gcc\arm-none-eabi\include\machine\_endian.h \
+ d\:\gcc\arm-none-eabi\include\sys\select.h \
+ d\:\gcc\arm-none-eabi\include\sys\_sigset.h \
+ d\:\gcc\arm-none-eabi\include\sys\_timeval.h \
+ d\:\gcc\arm-none-eabi\include\sys\timespec.h \
+ d\:\gcc\arm-none-eabi\include\sys\_timespec.h \
+ d\:\gcc\arm-none-eabi\include\sys\_pthreadtypes.h \
+ d\:\gcc\arm-none-eabi\include\sys\sched.h \
+ d\:\gcc\arm-none-eabi\include\machine\types.h \
+ d\:\gcc\arm-none-eabi\include\sys\stdio.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/assert.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\stdbool.h \
+ d\:\gcc\arm-none-eabi\include\assert.h \
+ d\:\gcc\lib\gcc\arm-none-eabi\10.2.1\include\stdint.h \
+ d\:\gcc\arm-none-eabi\include\stdint.h \
+ d\:\gcc\arm-none-eabi\include\sys\_intsup.h \
+ C\:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\generated\pico_base/pico/version.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/config.h \
+ C\:\Users\Administrator\Desktop\pico\cmake-build-debug-pico\generated\pico_base/pico/config_autogen.h \
+ C\:/Users/Administrator/Desktop/pico/pico-sdk/src/boards/include/boards/pico.h \
+ C\:/Users/Administrator/Desktop/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/platform_defs.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/addressmap.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/sio.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/types.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\common\pico_base\include/pico/error.h \
+ C\:\Users\Administrator\Desktop\pico\pico-sdk\src\rp2_common\pico_malloc\include/pico/malloc.h
